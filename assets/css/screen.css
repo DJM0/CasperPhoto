@@ -624,7 +624,6 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     margin: 0 0 40px;
     padding: 0 20px 40px;
     min-height: 220px;
-    border-bottom: 1px solid color-mod(var(--lightgrey) l(+12%));
     background-size: cover;
 }
 
