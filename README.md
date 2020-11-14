@@ -2,6 +2,8 @@
 
 Fork of [Casper](http://github.com/tryghost/casper/) (the default included theme for [Ghost](http://github.com/tryghost/ghost/)).
 
+![Casper Photo screenshot](assets/screenshot-desktop.jpg?raw=true)
+
 ## Fork differences
 
 - Removed the large card in the "grid view" so always displays 3 images/posts per row
