@@ -1,6 +1,6 @@
 # Casper Photo
 
-Fork of [Casper](http://github.com/tryghost/casper/) (the default included theme for [Ghost](http://github.com/tryghost/ghost/)).
+Fork of [Casper](http://github.com/tryghost/casper/) (the default included theme for [Ghost](http://github.com/tryghost/ghost/)), improved for photo blogs.
 
 ![Casper Photo screenshot](assets/screenshot-desktop.jpg?raw=true)
 
